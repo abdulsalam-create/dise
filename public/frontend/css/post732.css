@@ -1,0 +1,1203 @@
+.elementor-732 .elementor-element.elementor-element-f7d694e>.elementor-container {
+    max-width: 697px;
+    min-height: 90vh;
+}
+
+.elementor-732 .elementor-element.elementor-element-f7d694e:not(.elementor-motion-effects-element-type-background),
+.elementor-732 .elementor-element.elementor-element-f7d694e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://kievachrisamusan.com/wp-content/uploads/2022/10/pexels-george-milton-6954175-scaled-e1665095761840.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-732 .elementor-element.elementor-element-f7d694e>.elementor-background-overlay {
+    background-color: var(--e-global-color-primary);
+    opacity: 0.45;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-f7d694e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-7a5fa3e>.elementor-element-populated {
+    margin: 0% -40% 0% 40%;
+    --e-column-margin-right: -40%;
+    --e-column-margin-left: 40%;
+}
+
+.elementor-732 .elementor-element.elementor-element-3e236af {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-3e236af .elementor-heading-title {
+    color: var(--e-global-color-023861e);
+    font-family: var(--e-global-typography-0b0fe53-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-0b0fe53-font-size);
+    font-weight: var(--e-global-typography-0b0fe53-font-weight);
+    text-transform: var(--e-global-typography-0b0fe53-text-transform);
+    font-style: var(--e-global-typography-0b0fe53-font-style);
+    text-decoration: var(--e-global-typography-0b0fe53-text-decoration);
+    line-height: var(--e-global-typography-0b0fe53-line-height);
+    letter-spacing: var(--e-global-typography-0b0fe53-letter-spacing);
+    word-spacing: var(--e-global-typography-0b0fe53-word-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-c349969 {
+    color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-3c362fb .elementor-button {
+    background-color: var(--e-global-color-02d9e4c);
+}
+
+.elementor-732 .elementor-element.elementor-element-8ce05d9 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 5% 0% 5% 0%;
+}
+
+.elementor-732 .elementor-element.elementor-element-8ce05d9>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaf467c:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-aaf467c>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-aaf467c>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 0% 0% 40%;
+    --e-column-margin-right: 0%;
+    --e-column-margin-left: 40%;
+    padding: 10% 0% 10% 0%;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaf467c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-f48495e {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-f48495e img {
+    height: 90vh;
+    object-fit: cover;
+}
+
+.elementor-732 .elementor-element.elementor-element-f48495e>.elementor-widget-container {
+    margin: 0% 20% 0% -15%;
+}
+
+.elementor-732 .elementor-element.elementor-element-bc222b2:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-bc222b2>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-bc222b2>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0% 0% 0% 0%;
+    --e-column-margin-right: 0%;
+    --e-column-margin-left: 0%;
+    padding: 5% 20% 5% 0%;
+}
+
+.elementor-732 .elementor-element.elementor-element-bc222b2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-261f88b .elementor-heading-title {
+    color: #FF6B6B;
+    font-family: "Modernline", Baskervville, League Spartan;
+    font-size: 60px;
+    text-transform: lowercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.5em;
+}
+
+.elementor-732 .elementor-element.elementor-element-261f88b>.elementor-widget-container {
+    --e-transform-translateX: -20%;
+}
+
+.elementor-732 .elementor-element.elementor-element-70be07d .elementor-heading-title {
+    font-family: "LeagueSpartan", Baskervville, League Spartan;
+    font-size: 40px;
+    font-weight: 300;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.3em;
+}
+
+.elementor-732 .elementor-element.elementor-element-19809f6 .qodef-qi-typeout-text {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-19809f6 .qodef-qi-typeout-text .qodef-m-text {
+    color: #ffd1ce;
+    font-family: "LeagueSpartan", Baskervville, League Spartan;
+    font-size: 35px;
+    font-weight: 300;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.3em;
+}
+
+.elementor-732 .elementor-element.elementor-element-19809f6 .qodef-qi-typeout-text .qodef-typeout-holder {
+    color: var(--e-global-color-02d9e4c);
+}
+
+.elementor-732 .elementor-element.elementor-element-0568f91 {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.elementor-732 .elementor-element.elementor-element-fad765a>.elementor-element-populated {
+    margin: 7% 0% 7% 0%;
+    --e-column-margin-right: 0%;
+    --e-column-margin-left: 0%;
+}
+
+.elementor-732 .elementor-element.elementor-element-01f005e>.elementor-widget-container {
+    margin: 0% -13% 0% 13%;
+    padding: 7% 7% 7% 7%;
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-01f005e {
+    z-index: 1;
+}
+
+.elementor-732 .elementor-element.elementor-element-f8df643:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-f8df643>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    /* background-image: url(); */
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-732 .elementor-element.elementor-element-f8df643>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-f8df643>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5e631d:not(.elementor-motion-effects-element-type-background),
+.elementor-732 .elementor-element.elementor-element-f5e631d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffd1ce;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5e631d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 8%;
+    margin-bottom: 0%;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5e631d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-dfaf88e>.elementor-element-populated {
+    padding: 5% 5% 5% 5%;
+}
+
+.elementor-732 .elementor-element.elementor-element-a2a8654 {
+    --iteration-count: infinite;
+    --animation-duration: 1200ms;
+}
+
+.elementor-732 .elementor-element.elementor-element-a2a8654 .elementor-headline {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-57e002b>.elementor-container {
+    max-width: 995px;
+    min-height: 50vh;
+}
+
+.elementor-732 .elementor-element.elementor-element-57e002b:not(.elementor-motion-effects-element-type-background),
+.elementor-732 .elementor-element.elementor-element-57e002b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-57e002b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 5% 0% 0% 0%;
+}
+
+.elementor-732 .elementor-element.elementor-element-57e002b>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-ee1b26c.elementor-column .elementor-widget-wrap {
+    align-items: space-around;
+}
+
+.elementor-732 .elementor-element.elementor-element-ee1b26c.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: space-around;
+    align-items: space-around;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce492e5 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon {
+    font-size: 20px;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title {
+    margin-bottom: 0px;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title,
+.elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title a {
+    font-family: var(--e-global-typography-text-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    text-transform: var(--e-global-typography-text-text-transform);
+    font-style: var(--e-global-typography-text-font-style);
+    text-decoration: var(--e-global-typography-text-text-decoration);
+    line-height: var(--e-global-typography-text-line-height);
+    letter-spacing: var(--e-global-typography-text-letter-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-2311996 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon {
+    font-size: 20px;
+}
+
+.elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title {
+    margin-bottom: 0px;
+}
+
+.elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title,
+.elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title a {
+    font-family: var(--e-global-typography-text-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    text-transform: var(--e-global-typography-text-text-transform);
+    font-style: var(--e-global-typography-text-font-style);
+    text-decoration: var(--e-global-typography-text-text-decoration);
+    line-height: var(--e-global-typography-text-line-height);
+    letter-spacing: var(--e-global-typography-text-letter-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-40bdae2 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon {
+    font-size: 20px;
+}
+
+.elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title {
+    margin-bottom: 0px;
+}
+
+.elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title,
+.elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title a {
+    font-family: var(--e-global-typography-text-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    text-transform: var(--e-global-typography-text-text-transform);
+    font-style: var(--e-global-typography-text-font-style);
+    text-decoration: var(--e-global-typography-text-text-decoration);
+    line-height: var(--e-global-typography-text-line-height);
+    letter-spacing: var(--e-global-typography-text-letter-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-de21dd4 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon {
+    font-size: 20px;
+}
+
+.elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title {
+    margin-bottom: 0px;
+}
+
+.elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title,
+.elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title a {
+    font-family: var(--e-global-typography-text-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    text-transform: var(--e-global-typography-text-text-transform);
+    font-style: var(--e-global-typography-text-font-style);
+    text-decoration: var(--e-global-typography-text-text-decoration);
+    line-height: var(--e-global-typography-text-line-height);
+    letter-spacing: var(--e-global-typography-text-letter-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-f5ef75f {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon {
+    font-size: 20px;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title {
+    margin-bottom: 0px;
+}
+
+.elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title,
+.elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title a {
+    font-family: var(--e-global-typography-text-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    text-transform: var(--e-global-typography-text-text-transform);
+    font-style: var(--e-global-typography-text-font-style);
+    text-decoration: var(--e-global-typography-text-text-decoration);
+    line-height: var(--e-global-typography-text-line-height);
+    letter-spacing: var(--e-global-typography-text-letter-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-a31019f>.elementor-container {
+    max-width: 975px;
+}
+
+.elementor-732 .elementor-element.elementor-element-a31019f:not(.elementor-motion-effects-element-type-background),
+.elementor-732 .elementor-element.elementor-element-a31019f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-a31019f {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-a31019f>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-6af49af>.elementor-element-populated {
+    padding: 5% 5% 5% 5%;
+}
+
+.elementor-732 .elementor-element.elementor-element-6971fd8 {
+    font-family: "Baskerville Display PT", Baskervville, League Spartan;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.2em;
+}
+
+.elementor-732 .elementor-element.elementor-element-e213fc7 {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-e213fc7 .elementor-heading-title {
+    font-family: var(--e-global-typography-c57c2f0-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-c57c2f0-font-size);
+    text-transform: var(--e-global-typography-c57c2f0-text-transform);
+    font-style: var(--e-global-typography-c57c2f0-font-style);
+    text-decoration: var(--e-global-typography-c57c2f0-text-decoration);
+    line-height: var(--e-global-typography-c57c2f0-line-height);
+    letter-spacing: var(--e-global-typography-c57c2f0-letter-spacing);
+    word-spacing: var(--e-global-typography-c57c2f0-word-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-6c7a78c .elementor-button {
+    padding: 4% 4% 4% 4%;
+}
+
+.elementor-732 .elementor-element.elementor-element-6c7a78c>.elementor-widget-container {
+    margin: 0% 8% 0% 8%;
+}
+
+.elementor-732 .elementor-element.elementor-element-0191831>.elementor-container {
+    max-width: 861px;
+}
+
+.elementor-732 .elementor-element.elementor-element-0191831 {
+    padding: 5% 5% 5% 5%;
+}
+
+.elementor-732 .elementor-element.elementor-element-8439cd0 {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-8439cd0 .elementor-heading-title {
+    font-family: var(--e-global-typography-secondary-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-secondary-font-size);
+    font-weight: var(--e-global-typography-secondary-font-weight);
+    text-transform: var(--e-global-typography-secondary-text-transform);
+    font-style: var(--e-global-typography-secondary-font-style);
+    text-decoration: var(--e-global-typography-secondary-text-decoration);
+    line-height: var(--e-global-typography-secondary-line-height);
+}
+
+.elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-wrapper {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-wrapper .elementor-testimonial-image img {
+    width: 40px;
+    height: 40px;
+}
+
+.elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-name {
+    font-family: var(--e-global-typography-accent-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-accent-font-size);
+    font-weight: var(--e-global-typography-accent-font-weight);
+    text-transform: var(--e-global-typography-accent-text-transform);
+    font-style: var(--e-global-typography-accent-font-style);
+    text-decoration: var(--e-global-typography-accent-text-decoration);
+    line-height: var(--e-global-typography-accent-line-height);
+    letter-spacing: var(--e-global-typography-accent-letter-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-job {
+    font-family: var(--e-global-typography-8347d97-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-8347d97-font-size);
+    font-weight: var(--e-global-typography-8347d97-font-weight);
+    text-transform: var(--e-global-typography-8347d97-text-transform);
+    font-style: var(--e-global-typography-8347d97-font-style);
+    text-decoration: var(--e-global-typography-8347d97-text-decoration);
+    line-height: var(--e-global-typography-8347d97-line-height);
+    letter-spacing: var(--e-global-typography-8347d97-letter-spacing);
+    word-spacing: var(--e-global-typography-8347d97-word-spacing);
+}
+
+.elementor-732 .elementor-element.elementor-element-8d4f46d>.elementor-widget-container {
+    margin: 0% 20% 0% 20%;
+}
+
+.elementor-732 .elementor-element.elementor-element-6fa738b>.elementor-container {
+    min-height: 100vh;
+}
+
+.elementor-732 .elementor-element.elementor-element-6fa738b:not(.elementor-motion-effects-element-type-background),
+.elementor-732 .elementor-element.elementor-element-6fa738b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://kievachrisamusan.com/wp-content/uploads/2022/07/M-Lashell-Photography-Professional-Photographer-1.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-732 .elementor-element.elementor-element-6fa738b>.elementor-background-overlay {
+    background-color: var(--e-global-color-primary);
+    opacity: 0.75;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-6fa738b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 2% 0% 5% 0%;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-4e845a7.elementor-column .elementor-widget-wrap {
+    align-items: space-evenly;
+}
+
+.elementor-732 .elementor-element.elementor-element-4e845a7.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: space-evenly;
+    align-items: space-evenly;
+}
+
+.elementor-732 .elementor-element.elementor-element-4e845a7.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-3c93a19 {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-3c93a19 .elementor-heading-title {
+    color: var(--e-global-color-a2d8ecb);
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-d930108.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-d930108.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-d930108:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-d930108>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-d930108>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10% 10% 10% 10%;
+}
+
+.elementor-732 .elementor-element.elementor-element-d930108>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-824da16 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-824da16 .elementor-icon {
+    font-size: 30px;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-41be547.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-41be547.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-015a98c .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-015a98c.elementor-view-stacked .elementor-icon {
+    background-color: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-015a98c.elementor-view-framed .elementor-icon,
+.elementor-732 .elementor-element.elementor-element-015a98c.elementor-view-default .elementor-icon {
+    color: #F3E2E4;
+    border-color: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-015a98c.elementor-view-framed .elementor-icon,
+.elementor-732 .elementor-element.elementor-element-015a98c.elementor-view-default .elementor-icon svg {
+    fill: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-015a98c .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-728ea36.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-728ea36.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-728ea36:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-728ea36>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-728ea36>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10% 10% 10% 10%;
+}
+
+.elementor-732 .elementor-element.elementor-element-728ea36>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-28b6963 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-28b6963 .elementor-icon {
+    font-size: 30px;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-05ae4e4.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-05ae4e4.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce65e37 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce65e37.elementor-view-stacked .elementor-icon {
+    background-color: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce65e37.elementor-view-framed .elementor-icon,
+.elementor-732 .elementor-element.elementor-element-ce65e37.elementor-view-default .elementor-icon {
+    color: #F3E2E4;
+    border-color: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce65e37.elementor-view-framed .elementor-icon,
+.elementor-732 .elementor-element.elementor-element-ce65e37.elementor-view-default .elementor-icon svg {
+    fill: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-ce65e37 .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-3c29f96.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-3c29f96.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-3c29f96:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-3c29f96>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-3c29f96>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10% 10% 10% 10%;
+}
+
+.elementor-732 .elementor-element.elementor-element-3c29f96>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-0d851c8 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-0d851c8 .elementor-icon {
+    font-size: 30px;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-be55d2d.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-be55d2d.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaccf10 .elementor-icon-wrapper {
+    text-align: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaccf10.elementor-view-stacked .elementor-icon {
+    background-color: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaccf10.elementor-view-framed .elementor-icon,
+.elementor-732 .elementor-element.elementor-element-aaccf10.elementor-view-default .elementor-icon {
+    color: #F3E2E4;
+    border-color: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaccf10.elementor-view-framed .elementor-icon,
+.elementor-732 .elementor-element.elementor-element-aaccf10.elementor-view-default .elementor-icon svg {
+    fill: #F3E2E4;
+}
+
+.elementor-732 .elementor-element.elementor-element-aaccf10 .elementor-icon {
+    font-size: 38px;
+}
+
+.elementor-bc-flex-widget .elementor-732 .elementor-element.elementor-element-66e12c1.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-66e12c1.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-732 .elementor-element.elementor-element-66e12c1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-732 .elementor-element.elementor-element-66e12c1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var(--e-global-color-023861e);
+}
+
+.elementor-732 .elementor-element.elementor-element-66e12c1>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 10% 10% 10% 10%;
+}
+
+.elementor-732 .elementor-element.elementor-element-66e12c1>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-732 .elementor-element.elementor-element-0d99fa3 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-732 .elementor-element.elementor-element-0d99fa3 .elementor-icon {
+    font-size: 30px;
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-qi-info-button {
+    font-family: var(--e-global-typography-0b0fe53-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-0b0fe53-font-size);
+    font-weight: var(--e-global-typography-0b0fe53-font-weight);
+    text-transform: var(--e-global-typography-0b0fe53-text-transform);
+    font-style: var(--e-global-typography-0b0fe53-font-style);
+    text-decoration: var(--e-global-typography-0b0fe53-text-decoration);
+    line-height: var(--e-global-typography-0b0fe53-line-height);
+    letter-spacing: var(--e-global-typography-0b0fe53-letter-spacing);
+    word-spacing: var(--e-global-typography-0b0fe53-word-spacing);
+    color: var(--e-global-color-primary);
+    border-radius: 0px 0px 0px 0px;
+    padding: 5% 1% 4% 10%;
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-m-subtext {
+    font-family: var(--e-global-typography-text-font-family), Baskervville, League Spartan;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    text-transform: var(--e-global-typography-text-text-transform);
+    font-style: var(--e-global-typography-text-font-style);
+    text-decoration: var(--e-global-typography-text-text-decoration);
+    line-height: var(--e-global-typography-text-line-height);
+    letter-spacing: var(--e-global-typography-text-letter-spacing);
+    color: var(--e-global-color-text);
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-qi-info-button.qodef-layout--filled {
+    background-color: var(--e-global-color-accent);
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-qi-info-button.qodef-type--icon-boxed .qodef-m-text-holder {
+    padding: 5% 1% 4% 10%;
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-qi-info-button.qodef-type--icon-boxed .qodef-m-icon {
+    padding: 5% 0 4%;
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-m-icon {
+    font-size: 20px;
+    color: var(--e-global-color-primary);
+}
+
+.elementor-732 .elementor-element.elementor-element-5a538d2 {
+    width: auto;
+    max-width: auto;
+}
+
+@media(min-width:768px) {
+    .elementor-732 .elementor-element.elementor-element-d930108 {
+        width: 20.5%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-41be547 {
+        width: 6%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-728ea36 {
+        width: 20.5%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-05ae4e4 {
+        width: 6%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-3c29f96 {
+        width: 20.5%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-be55d2d {
+        width: 6%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-66e12c1 {
+        width: 20.908%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-732 .elementor-element.elementor-element-f7d694e>.elementor-container {
+        min-height: 50vh;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-7a5fa3e>.elementor-element-populated {
+        margin: 0% 0% 0% 30%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: 30%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-3e236af .elementor-heading-title {
+        font-size: var(--e-global-typography-0b0fe53-font-size);
+        line-height: var(--e-global-typography-0b0fe53-line-height);
+        letter-spacing: var(--e-global-typography-0b0fe53-letter-spacing);
+        word-spacing: var(--e-global-typography-0b0fe53-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-bc222b2>.elementor-element-populated {
+        padding: 0% 10% 0% 0%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-261f88b .elementor-heading-title {
+        font-size: 50px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-70be07d .elementor-heading-title {
+        font-size: 40px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-19809f6 .qodef-qi-typeout-text .qodef-m-text {
+        font-size: 26px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-57e002b {
+        padding: 4% 2% 0% 2%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-6971fd8 {
+        font-size: 27px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-e213fc7 .elementor-heading-title {
+        font-size: var(--e-global-typography-c57c2f0-font-size);
+        line-height: var(--e-global-typography-c57c2f0-line-height);
+        letter-spacing: var(--e-global-typography-c57c2f0-letter-spacing);
+        word-spacing: var(--e-global-typography-c57c2f0-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-8439cd0 .elementor-heading-title {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-name {
+        font-size: var(--e-global-typography-accent-font-size);
+        line-height: var(--e-global-typography-accent-line-height);
+        letter-spacing: var(--e-global-typography-accent-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-job {
+        font-size: var(--e-global-typography-8347d97-font-size);
+        line-height: var(--e-global-typography-8347d97-line-height);
+        letter-spacing: var(--e-global-typography-8347d97-letter-spacing);
+        word-spacing: var(--e-global-typography-8347d97-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-015a98c .elementor-icon-wrapper {
+        text-align: left;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-qi-info-button {
+        font-size: var(--e-global-typography-0b0fe53-font-size);
+        line-height: var(--e-global-typography-0b0fe53-line-height);
+        letter-spacing: var(--e-global-typography-0b0fe53-letter-spacing);
+        word-spacing: var(--e-global-typography-0b0fe53-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-m-subtext {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-732 .elementor-element.elementor-element-3e236af .elementor-heading-title {
+        font-size: var(--e-global-typography-0b0fe53-font-size);
+        line-height: var(--e-global-typography-0b0fe53-line-height);
+        letter-spacing: var(--e-global-typography-0b0fe53-letter-spacing);
+        word-spacing: var(--e-global-typography-0b0fe53-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-aaf467c>.elementor-element-populated {
+        margin: 0% 0% 0% 4%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: 4%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-f48495e img {
+        height: 50vh;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-f48495e>.elementor-widget-container {
+        margin: 0% 0% 0% 0%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-bc222b2>.elementor-element-populated {
+        padding: 5% 5% 5% 5%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-261f88b .elementor-heading-title {
+        font-size: 35px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-261f88b>.elementor-widget-container {
+        --e-transform-translateX: 20%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-70be07d .elementor-heading-title {
+        font-size: 30px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-19809f6 .qodef-qi-typeout-text .qodef-m-text {
+        font-size: 30px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-01f005e>.elementor-widget-container {
+        margin: 0% 0% 0% 0%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-ce492e5 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-2311996 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-40bdae2 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-de21dd4 .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title,
+    .elementor-732 .elementor-element.elementor-element-f5ef75f .elementor-icon-box-title a {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-6971fd8 {
+        font-size: 19px;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-e213fc7 .elementor-heading-title {
+        font-size: var(--e-global-typography-c57c2f0-font-size);
+        line-height: var(--e-global-typography-c57c2f0-line-height);
+        letter-spacing: var(--e-global-typography-c57c2f0-letter-spacing);
+        word-spacing: var(--e-global-typography-c57c2f0-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-6c7a78c>.elementor-widget-container {
+        margin: 0% 0% 0% 0%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-8439cd0 .elementor-heading-title {
+        font-size: var(--e-global-typography-secondary-font-size);
+        line-height: var(--e-global-typography-secondary-line-height);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-name {
+        font-size: var(--e-global-typography-accent-font-size);
+        line-height: var(--e-global-typography-accent-line-height);
+        letter-spacing: var(--e-global-typography-accent-letter-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-4f0d148 .elementor-testimonial-job {
+        font-size: var(--e-global-typography-8347d97-font-size);
+        line-height: var(--e-global-typography-8347d97-line-height);
+        letter-spacing: var(--e-global-typography-8347d97-letter-spacing);
+        word-spacing: var(--e-global-typography-8347d97-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-8d4f46d>.elementor-widget-container {
+        margin: 0% 0% 0% 0%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-6b0a77d {
+        padding: 0% 0% 5% 0%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-d930108>.elementor-element-populated {
+        margin: 0% 5% 0% 2%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 2%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-015a98c .elementor-icon-wrapper {
+        text-align: center;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-728ea36>.elementor-element-populated {
+        margin: 0% 5% 0% 2%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 2%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-3c29f96>.elementor-element-populated {
+        margin: 0% 5% 0% 2%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 2%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-66e12c1>.elementor-element-populated {
+        margin: 0% 5% 0% 2%;
+        --e-column-margin-right: 5%;
+        --e-column-margin-left: 2%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-qi-info-button {
+        font-size: var(--e-global-typography-0b0fe53-font-size);
+        line-height: var(--e-global-typography-0b0fe53-line-height);
+        letter-spacing: var(--e-global-typography-0b0fe53-letter-spacing);
+        word-spacing: var(--e-global-typography-0b0fe53-word-spacing);
+    }
+
+    .elementor-732 .elementor-element.elementor-element-5a538d2 .qodef-m-subtext {
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+        letter-spacing: var(--e-global-typography-text-letter-spacing);
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-732 .elementor-element.elementor-element-aaf467c {
+        width: 40%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-bc222b2 {
+        width: 60%;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-66e12c1 {
+        width: 20.5%;
+    }
+}
+
+@media(min-width:1025px) {
+
+    .elementor-732 .elementor-element.elementor-element-f7d694e:not(.elementor-motion-effects-element-type-background),
+    .elementor-732 .elementor-element.elementor-element-f7d694e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: scroll;
+    }
+
+    .elementor-732 .elementor-element.elementor-element-6fa738b:not(.elementor-motion-effects-element-type-background),
+    .elementor-732 .elementor-element.elementor-element-6fa738b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: scroll;
+    }
+}
+
+/* Start custom CSS for text-editor, class: .elementor-element-01f005e */
+.highlight {
+    background: linear-gradient(180deg, white 50%, #f6f1ee 50%);
+}
+
+/* End custom CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Modernline';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('https://kievachrisamusan.com/wp-content/uploads/2022/06/modernline.woff') format('woff');
+}
+
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'LeagueSpartan';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url('https://kievachrisamusan.com/wp-content/uploads/2022/06/LeagueSpartan-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LeagueSpartan';
+    font-style: normal;
+    font-weight: 200;
+    font-display: auto;
+    src: url('https://kievachrisamusan.com/wp-content/uploads/2022/06/LeagueSpartan-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LeagueSpartan';
+    font-style: normal;
+    font-weight: bold;
+    font-display: auto;
+    src: url('https://kievachrisamusan.com/wp-content/uploads/2022/06/LeagueSpartan-Bold.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+    font-family: 'Baskerville Display PT';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('https://kievachrisamusan.com/wp-content/uploads/2022/06/Baskerville-Display-PT-Web.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */

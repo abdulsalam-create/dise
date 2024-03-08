@@ -1,0 +1,46 @@
+@extends('layouts.admin')
+@section('content')
+
+
+
+
+
+<!-- Form Start -->
+@foreach($allCal as $item)
+<form method="POST" action="{{ route('cal.update',$item->id)  }}" enctype="multipart/form-data">
+    @csrf
+
+    <div class="container-fluid pt-4 px-4 ">
+        <div class="row g-4">
+
+
+            <div class="col-sm-12 col-xl-12">
+                <div class="bg-secondary rounded h-100 p-4">
+                    <input type="hidden" name="id" value="">
+                    <h6 class="mb-4">Calendly Link</h6>
+                
+
+                 
+                    <div class="form-floating mb-3">
+                        <input type="text" name="link" class="form-control" id="floatingInput"
+                            placeholder="name@example.com" value="{{$item->link}}">
+                        <label for="floatingInput">Embeded Link</label>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mt-5">Submit</button>
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</form>
+
+@endforeach
+
+
+
+@endsection 

@@ -1,0 +1,1385 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <title>Express Consult &#8211; Kieva Chris-Amusan</title>
+    <meta name='robots' content='max-image-preview:large' />
+
+    <link rel='stylesheet' id='convertkit-broadcasts-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/convertkit/resources/frontend/css/broadcasts.css?ver=2.1.2'
+        media='all' />
+    <link rel='stylesheet' id='convertkit-product-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/convertkit/resources/frontend/css/product.css?ver=2.1.2'
+        media='all' />
+    {{-- <style id='global-styles-inline-css'>
+        body {
+            --wp--preset--color--black: #000000;
+            --wp--preset--color--cyan-bluish-gray: #abb8c3;
+            --wp--preset--color--white: #ffffff;
+            --wp--preset--color--pale-pink: #f78da7;
+            --wp--preset--color--vivid-red: #cf2e2e;
+            --wp--preset--color--luminous-vivid-orange: #ff6900;
+            --wp--preset--color--luminous-vivid-amber: #fcb900;
+            --wp--preset--color--light-green-cyan: #7bdcb5;
+            --wp--preset--color--vivid-green-cyan: #00d084;
+            --wp--preset--color--pale-cyan-blue: #8ed1fc;
+            --wp--preset--color--vivid-cyan-blue: #0693e3;
+            --wp--preset--color--vivid-purple: #9b51e0;
+            --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+            --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+            --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+            --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+            --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+            --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+            --wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+            --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+            --wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+            --wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+            --wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+            --wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+            --wp--preset--font-size--small: 13px;
+            --wp--preset--font-size--medium: 20px;
+            --wp--preset--font-size--large: 36px;
+            --wp--preset--font-size--x-large: 42px;
+            --wp--preset--spacing--20: 0.44rem;
+            --wp--preset--spacing--30: 0.67rem;
+            --wp--preset--spacing--40: 1rem;
+            --wp--preset--spacing--50: 1.5rem;
+            --wp--preset--spacing--60: 2.25rem;
+            --wp--preset--spacing--70: 3.38rem;
+            --wp--preset--spacing--80: 5.06rem;
+            --wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+            --wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+            --wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+            --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+            --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+        }
+
+        :where(.is-layout-flex) {
+            gap: 0.5em;
+        }
+
+        :where(.is-layout-grid) {
+            gap: 0.5em;
+        }
+
+        body .is-layout-flow>.alignleft {
+            float: left;
+            margin-inline-start: 0;
+            margin-inline-end: 2em;
+        }
+
+        body .is-layout-flow>.alignright {
+            float: right;
+            margin-inline-start: 2em;
+            margin-inline-end: 0;
+        }
+
+        body .is-layout-flow>.aligncenter {
+            margin-left: auto !important;
+            margin-right: auto !important;
+        }
+
+        body .is-layout-constrained>.alignleft {
+            float: left;
+            margin-inline-start: 0;
+            margin-inline-end: 2em;
+        }
+
+        body .is-layout-constrained>.alignright {
+            float: right;
+            margin-inline-start: 2em;
+            margin-inline-end: 0;
+        }
+
+        body .is-layout-constrained>.aligncenter {
+            margin-left: auto !important;
+            margin-right: auto !important;
+        }
+
+        body .is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+            max-width: var(--wp--style--global--content-size);
+            margin-left: auto !important;
+            margin-right: auto !important;
+        }
+
+        body .is-layout-constrained>.alignwide {
+            max-width: var(--wp--style--global--wide-size);
+        }
+
+        body .is-layout-flex {
+            display: flex;
+        }
+
+        body .is-layout-flex {
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        body .is-layout-flex>* {
+            margin: 0;
+        }
+
+        body .is-layout-grid {
+            display: grid;
+        }
+
+        body .is-layout-grid>* {
+            margin: 0;
+        }
+
+        :where(.wp-block-columns.is-layout-flex) {
+            gap: 2em;
+        }
+
+        :where(.wp-block-columns.is-layout-grid) {
+            gap: 2em;
+        }
+
+        :where(.wp-block-post-template.is-layout-flex) {
+            gap: 1.25em;
+        }
+
+        :where(.wp-block-post-template.is-layout-grid) {
+            gap: 1.25em;
+        }
+
+        .has-black-color {
+            color: var(--wp--preset--color--black) !important;
+        }
+
+        .has-cyan-bluish-gray-color {
+            color: var(--wp--preset--color--cyan-bluish-gray) !important;
+        }
+
+        .has-white-color {
+            color: var(--wp--preset--color--white) !important;
+        }
+
+        .has-pale-pink-color {
+            color: var(--wp--preset--color--pale-pink) !important;
+        }
+
+        .has-vivid-red-color {
+            color: var(--wp--preset--color--vivid-red) !important;
+        }
+
+        .has-luminous-vivid-orange-color {
+            color: var(--wp--preset--color--luminous-vivid-orange) !important;
+        }
+
+        .has-luminous-vivid-amber-color {
+            color: var(--wp--preset--color--luminous-vivid-amber) !important;
+        }
+
+        .has-light-green-cyan-color {
+            color: var(--wp--preset--color--light-green-cyan) !important;
+        }
+
+        .has-vivid-green-cyan-color {
+            color: var(--wp--preset--color--vivid-green-cyan) !important;
+        }
+
+        .has-pale-cyan-blue-color {
+            color: var(--wp--preset--color--pale-cyan-blue) !important;
+        }
+
+        .has-vivid-cyan-blue-color {
+            color: var(--wp--preset--color--vivid-cyan-blue) !important;
+        }
+
+        .has-vivid-purple-color {
+            color: var(--wp--preset--color--vivid-purple) !important;
+        }
+
+        .has-black-background-color {
+            background-color: var(--wp--preset--color--black) !important;
+        }
+
+        .has-cyan-bluish-gray-background-color {
+            background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+        }
+
+        .has-white-background-color {
+            background-color: var(--wp--preset--color--white) !important;
+        }
+
+        .has-pale-pink-background-color {
+            background-color: var(--wp--preset--color--pale-pink) !important;
+        }
+
+        .has-vivid-red-background-color {
+            background-color: var(--wp--preset--color--vivid-red) !important;
+        }
+
+        .has-luminous-vivid-orange-background-color {
+            background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+        }
+
+        .has-luminous-vivid-amber-background-color {
+            background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+        }
+
+        .has-light-green-cyan-background-color {
+            background-color: var(--wp--preset--color--light-green-cyan) !important;
+        }
+
+        .has-vivid-green-cyan-background-color {
+            background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+        }
+
+        .has-pale-cyan-blue-background-color {
+            background-color: var(--wp--preset--color--pale-cyan-blue) !important;
+        }
+
+        .has-vivid-cyan-blue-background-color {
+            background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+        }
+
+        .has-vivid-purple-background-color {
+            background-color: var(--wp--preset--color--vivid-purple) !important;
+        }
+
+        .has-black-border-color {
+            border-color: var(--wp--preset--color--black) !important;
+        }
+
+        .has-cyan-bluish-gray-border-color {
+            border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+        }
+
+        .has-white-border-color {
+            border-color: var(--wp--preset--color--white) !important;
+        }
+
+        .has-pale-pink-border-color {
+            border-color: var(--wp--preset--color--pale-pink) !important;
+        }
+
+        .has-vivid-red-border-color {
+            border-color: var(--wp--preset--color--vivid-red) !important;
+        }
+
+        .has-luminous-vivid-orange-border-color {
+            border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+        }
+
+        .has-luminous-vivid-amber-border-color {
+            border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+        }
+
+        .has-light-green-cyan-border-color {
+            border-color: var(--wp--preset--color--light-green-cyan) !important;
+        }
+
+        .has-vivid-green-cyan-border-color {
+            border-color: var(--wp--preset--color--vivid-green-cyan) !important;
+        }
+
+        .has-pale-cyan-blue-border-color {
+            border-color: var(--wp--preset--color--pale-cyan-blue) !important;
+        }
+
+        .has-vivid-cyan-blue-border-color {
+            border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+        }
+
+        .has-vivid-purple-border-color {
+            border-color: var(--wp--preset--color--vivid-purple) !important;
+        }
+
+        .has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+            background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
+        }
+
+        .has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+            background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
+        }
+
+        .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+            background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
+        }
+
+        .has-luminous-vivid-orange-to-vivid-red-gradient-background {
+            background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
+        }
+
+        .has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+            background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
+        }
+
+        .has-cool-to-warm-spectrum-gradient-background {
+            background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
+        }
+
+        .has-blush-light-purple-gradient-background {
+            background: var(--wp--preset--gradient--blush-light-purple) !important;
+        }
+
+        .has-blush-bordeaux-gradient-background {
+            background: var(--wp--preset--gradient--blush-bordeaux) !important;
+        }
+
+        .has-luminous-dusk-gradient-background {
+            background: var(--wp--preset--gradient--luminous-dusk) !important;
+        }
+
+        .has-pale-ocean-gradient-background {
+            background: var(--wp--preset--gradient--pale-ocean) !important;
+        }
+
+        .has-electric-grass-gradient-background {
+            background: var(--wp--preset--gradient--electric-grass) !important;
+        }
+
+        .has-midnight-gradient-background {
+            background: var(--wp--preset--gradient--midnight) !important;
+        }
+
+        .has-small-font-size {
+            font-size: var(--wp--preset--font-size--small) !important;
+        }
+
+        .has-medium-font-size {
+            font-size: var(--wp--preset--font-size--medium) !important;
+        }
+
+        .has-large-font-size {
+            font-size: var(--wp--preset--font-size--large) !important;
+        }
+
+        .has-x-large-font-size {
+            font-size: var(--wp--preset--font-size--x-large) !important;
+        }
+
+        .wp-block-navigation a:where(:not(.wp-element-button)) {
+            color: inherit;
+        }
+
+        :where(.wp-block-post-template.is-layout-flex) {
+            gap: 1.25em;
+        }
+
+        :where(.wp-block-post-template.is-layout-grid) {
+            gap: 1.25em;
+        }
+
+        :where(.wp-block-columns.is-layout-flex) {
+            gap: 2em;
+        }
+
+        :where(.wp-block-columns.is-layout-grid) {
+            gap: 2em;
+        }
+
+        .wp-block-pullquote {
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+    </style> --}}
+    <link rel='stylesheet' id='swiper-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6'
+        media='all' />
+    <link rel='stylesheet' id='qi-addons-for-elementor-grid-style-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/qi-addons-for-elementor/assets/css/grid.min.css?ver=6.4.3'
+        media='all' />
+    <link rel='stylesheet' id='qi-addons-for-elementor-helper-parts-style-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/qi-addons-for-elementor/assets/css/helper-parts.min.css?ver=6.4.3'
+        media='all' />
+    <link rel='stylesheet' id='qi-addons-for-elementor-style-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/qi-addons-for-elementor/assets/css/main.min.css?ver=6.4.3'
+        media='all' />
+    <link rel='stylesheet' id='hello-elementor-css'
+        href='https://kievachrisamusan.com/wp-content/themes/hello-elementor/style.min.css?ver=2.7.1' media='all' />
+    <link rel='stylesheet' id='hello-elementor-theme-style-css'
+        href='https://kievachrisamusan.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.7.1' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.4'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css'
+        href='https://kievachrisamusan.com/wp-content/uploads/elementor/css/post-5.css?ver=1682276732' media='all' />
+    <link rel='stylesheet' id='elementor-icons-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0'
+        media='all' />
+    <link rel='stylesheet' id='elementor-pro-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.19.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-global-css'
+        href='https://kievachrisamusan.com/wp-content/uploads/elementor/css/global.css?ver=1682276732' media='all' />
+    <link rel='stylesheet' id='elementor-post-732-css'
+        href='https://kievachrisamusan.com/wp-content/uploads/elementor/css/post-732.css?ver=1682441174' media='all' />
+    <link rel='stylesheet' id='elementor-post-127-css'
+        href='https://kievachrisamusan.com/wp-content/uploads/elementor/css/post-127.css?ver=1682276732' media='all' />
+    <link rel='stylesheet' id='elementor-post-137-css'
+        href='https://kievachrisamusan.com/wp-content/uploads/elementor/css/post-137.css?ver=1682276733' media='all' />
+    <link rel='stylesheet' id='ecs-styles-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.7'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-288-css'
+        href='https://kievachrisamusan.com/wp-content/uploads/elementor/css/post-288.css?ver=1665093034' media='all' />
+    <link rel='stylesheet' id='elementor-icons-shared-0-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-regular-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3'
+        media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-brands-css'
+        href='https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
+        media='all' />
+    <script src="https://kievachrisamusan.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js">
+    </script>
+    <script src="https://kievachrisamusan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
+        id="jquery-migrate-js"></script>
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.7"
+        id="ecs_ajax_load-js"></script>
+    <script src="https://kievachrisamusan.com/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.7"
+        id="ecs-script-js"></script>
+    <link rel="https://api.w.org/" href="https://kievachrisamusan.com/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://kievachrisamusan.com/wp-json/wp/v2/pages/732" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kievachrisamusan.com/xmlrpc.php?rsd" />
+    <meta name="generator" content="WordPress 6.4.3" />
+    <link rel="canonical" href="https://kievachrisamusan.com/express-consult/" />
+    <link rel='shortlink' href='https://kievachrisamusan.com/?p=732' />
+    <link rel="alternate" type="application/json+oembed"
+        href="https://kievachrisamusan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkievachrisamusan.com%2Fexpress-consult%2F" />
+    <link rel="alternate" type="text/xml+oembed"
+        href="https://kievachrisamusan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkievachrisamusan.com%2Fexpress-consult%2F&#038;format=xml" />
+
+
+
+        <link rel="stylesheet" href="{{ asset('frontend/plugins/bootstrap/css/bootstrap.min.css') }}">
+    <!-- Themify -->
+    <link rel="stylesheet" href="{{ asset('frontend/plugins/themify/css/themify-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/plugins/slick-carousel/slick-theme.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/plugins/slick-carousel/slick.css') }}">
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="{{ asset('frontend/plugins/owl-carousel/owl.carousel.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/plugins/owl-carousel/owl.theme.default.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/plugins/magnific-popup/magnific-popup.css') }}">
+    <!-- manin stylesheet -->
+    <link rel="stylesheet" href="{{ asset('frontend/css/style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+</head>
+
+<body
+    class="page-template page-template-elementor_header_footer page page-id-732 wp-custom-logo qodef-qi--no-touch qi-addons-for-elementor-1.5.8 elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-732">
+
+
+    <div class="header-logo  d-none d-lg-block md-clr">{{--removed the py-5 class--}}
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-6 text-center">
+					<a class="navbar-brand" href="index.html"><img src="{{ asset('frontend/images/logo-PSH.png') }}" alt="" class="img-fluid w-100"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+    <header class="header-top bg-grey justify-content-center md-clr">
+		@include('partials.nav')
+
+	</header>
+    <hr>
+    <div data-elementor-type="wp-page" data-elementor-id="732" class="elementor elementor-732"
+        data-elementor-post-type="page">
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-f7d694e elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
+            data-id="f7d694e" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-background-overlay"></div>
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7a5fa3e"
+                    data-id="7a5fa3e" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-3e236af elementor-widget elementor-widget-heading"
+                            data-id="3e236af" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">EXPRESS CONSULTATION</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-c349969 elementor-widget elementor-widget-text-editor"
+                            data-id="c349969" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor - v3.19.0 - 28-02-2024 */
+                                    .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+                                        background-color: #69727d;
+                                        color: #fff
+                                    }
+
+                                    .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap {
+                                        color: #69727d;
+                                        border: 3px solid;
+                                        background-color: transparent
+                                    }
+
+                                    .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap {
+                                        margin-top: 8px
+                                    }
+
+                                    .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter {
+                                        width: 1em;
+                                        height: 1em
+                                    }
+
+                                    .elementor-widget-text-editor .elementor-drop-cap {
+                                        float: left;
+                                        text-align: center;
+                                        line-height: 1;
+                                        font-size: 50px
+                                    }
+
+                                    .elementor-widget-text-editor .elementor-drop-cap-letter {
+                                        display: inline-block
+                                    }
+                                </style>
+                                <p>Get the undivided attention of a seasoned marketing strategist who has walked your
+                                    shoes and figure out exactly what your next move should be. </p>
+                                <p>BOOK YOUR 60-MINUTE INTENSIVE STRATEGY SESSION</p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-3c362fb elementor-align-center elementor-widget elementor-widget-button"
+                            data-id="3c362fb" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm"
+                                        href="https://portal.zoltdigital.com/public/appointment-scheduler/600368c08424085756e0353e/schedule">
+                                        <span class="elementor-button-content-wrapper">
+                                            <span class="elementor-button-text">LET'S DO THIS→</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-8ce05d9 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+            data-id="8ce05d9" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-aaf467c"
+                    data-id="aaf467c" data-element_type="column"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-f48495e elementor-widget elementor-widget-image"
+                            data-id="f48495e" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="683" height="1024"
+                                    src="https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A-683x1024.jpg"
+                                    class="attachment-large size-large wp-image-110" alt="Kieva Chris-Amusan"
+                                    srcset="https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A-683x1024.jpg 683w, https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A-200x300.jpg 200w, https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A-768x1152.jpg 768w, https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A-1024x1536.jpg 1024w, https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A-1365x2048.jpg 1365w, https://kievachrisamusan.com/wp-content/uploads/2022/06/KIEVA-C.A.jpg 1500w"
+                                    sizes="(max-width: 683px) 100vw, 683px" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bc222b2"
+                    data-id="bc222b2" data-element_type="column"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-261f88b e-transform elementor-widget elementor-widget-heading"
+                            data-id="261f88b" data-element_type="widget"
+                            data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-20,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Hey Boss!</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-70be07d elementor-widget elementor-widget-heading"
+                            data-id="70be07d" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h3 class="elementor-heading-title elementor-size-default">Does this describe you?</h3>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-d1c6e5b elementor-widget elementor-widget-text-editor"
+                            data-id="d1c6e5b" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>→ You are super-stressed because you have to keep “hustling” to get visible on social
+                                    media so you can land high-ticket clients.<br /><br />→ You have been told that you
+                                    need a “funnel” and you tried building one but there hasn’t been any significant
+                                    difference in your sales so far.<br /><br />→ The current income from your business
+                                    cannot pay all your bills and you worry that you’ll end up looking like a
+                                    failure.<br /><br />→ You feel stuck and tired of your current level and you need
+                                    clear direction on the steps you need to take to attract premium clients?</p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-19809f6 elementor-widget elementor-widget-qi_addons_for_elementor_typeout_text"
+                            data-id="19809f6" data-element_type="widget"
+                            data-widget_type="qi_addons_for_elementor_typeout_text.default">
+                            <div class="elementor-widget-container">
+                                <div class="qodef-shortcode qodef-m  qodef-qi-typeout-text"
+                                    data-strings="[&quot;you are not alone\u2026 &quot;]" data-cursor="|">
+                                    <h2 class="qodef-m-text">
+                                        If this is you, <span class="qodef-typeout-holder">
+                                            <span class="qodef-typeout"></span>
+                                        </span>
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-0568f91 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+            data-id="0568f91" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fad765a"
+                    data-id="fad765a" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-01f005e elementor-widget elementor-widget-text-editor"
+                            data-id="01f005e" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>It’s perfectly normal to feel out of depth when it comes to online
+                                    marketing.<br />Afterall, even though you’re an expert in what you do, you are not a
+                                    growth strategist!</p>
+                                <p><strong><em>This is where I come in…</em></strong></p>
+                                <p>In this 60-minute intensive strategy session, you will talk to me about what
+                                    you&#8217;re working on, show me where you&#8217;re stuck or pick my brain about an
+                                    idea you have.</p>
+                                <p>And then together, we will brainstorm and review your current marketing systems and
+                                    you will walk away with a clear strategy &amp; action plan.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f8df643 elementor-hidden-mobile"
+                    data-id="f8df643" data-element_type="column"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-f5e631d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+            data-id="f5e631d" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dfaf88e"
+                    data-id="dfaf88e" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-a2a8654 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
+                            data-id="a2a8654" data-element_type="widget"
+                            data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Expect&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}"
+                            data-widget_type="animated-headline.default">
+                            <div class="elementor-widget-container">
+                                <link rel="stylesheet"
+                                    href="https://kievachrisamusan.com/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css">
+                                <h3 class="elementor-headline">
+                                    <span class="elementor-headline-plain-text elementor-headline-text-wrapper">Here's
+                                        What to </span>
+                                    <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                                        <span
+                                            class="elementor-headline-dynamic-text elementor-headline-text-active">Expect</span>
+                                    </span>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-57e002b elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default"
+            data-id="57e002b" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-container elementor-column-gap-wide">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ee1b26c"
+                    data-id="ee1b26c" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-ce492e5 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                            data-id="ce492e5" data-element_type="widget" data-widget_type="icon-box.default">
+                            <div class="elementor-widget-container">
+                                <link rel="stylesheet"
+                                    href="https://kievachrisamusan.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="fas fa-calendar-day"></i> </span>
+                                    </div>
+                                    <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                                You book your session using the button below </span>
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-2311996 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                            data-id="2311996" data-element_type="widget" data-widget_type="icon-box.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="far fa-file-alt"></i> </span>
+                                    </div>
+                                    <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                            </span>
+                                        </h3>
+                                        <p class="elementor-icon-box-description">
+                                            Before we meet, I will review the information you have provided and ask any
+                                            other questions I might have. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-40bdae2 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                            data-id="40bdae2" data-element_type="widget" data-widget_type="icon-box.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="fas fa-video"></i> </span>
+                                    </div>
+                                    <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                            </span>
+                                        </h3>
+                                        <p class="elementor-icon-box-description">
+                                            We will have our 60-minute Session via Zoom/Google Meet. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-de21dd4 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                            data-id="de21dd4" data-element_type="widget" data-widget_type="icon-box.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="fas fa-file-video"></i> </span>
+                                    </div>
+                                    <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                            </span>
+                                        </h3>
+                                        <p class="elementor-icon-box-description">
+                                            Following our session, I'll send you the video recording for your reference
+                                            anytime. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-f5ef75f elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                            data-id="f5ef75f" data-element_type="widget" data-widget_type="icon-box.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-box-wrapper">
+                                    <div class="elementor-icon-box-icon">
+                                        <span class="elementor-icon elementor-animation-">
+                                            <i aria-hidden="true" class="fas fa-envelope-open-text"></i> </span>
+                                    </div>
+                                    <div class="elementor-icon-box-content">
+                                        <h3 class="elementor-icon-box-title">
+                                            <span>
+                                            </span>
+                                        </h3>
+                                        <p class="elementor-icon-box-description">
+                                            You will get an email follow-up with any tools, templates and resources
+                                            mentioned on the call. </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-a31019f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+            data-id="a31019f" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-container elementor-column-gap-wide">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6af49af"
+                    data-id="6af49af" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-b176e60 elementor-widget elementor-widget-text-editor"
+                            data-id="b176e60" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>In this one-hour call, you can walk me through your current business and any ongoing
+                                    marketing campaigns so we can make sure you&#8217;re on the right track before you
+                                    overextend yourself!</p>
+                                <p>I can quickly pinpoint where you&#8217;re likely going wrong, and more importantly,
+                                    recommend ways for you to fix it.</p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-6971fd8 elementor-widget elementor-widget-text-editor"
+                            data-id="6971fd8" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>By the end of our session together, you will walk away with actionable takeaways that
+                                    you can begin to implement immediately and with confidence.</p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-e213fc7 elementor-widget elementor-widget-heading"
+                            data-id="e213fc7" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Ready for your Session?</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-6c7a78c elementor-align-justify elementor-widget elementor-widget-button"
+                            data-id="6c7a78c" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-md"
+                                        href="https://portal.zoltdigital.com/public/appointment-scheduler/600368c08424085756e0353e/schedule">
+                                        <span class="elementor-button-content-wrapper">
+                                            <span class="elementor-button-text">Book your slot now for $299 only</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-0191831 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+            data-id="0191831" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d45f810"
+                    data-id="d45f810" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-8439cd0 elementor-widget elementor-widget-heading"
+                            data-id="8439cd0" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Cares About You Achieving
+                                    Results!</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-4f0d148 elementor-widget elementor-widget-testimonial"
+                            data-id="4f0d148" data-element_type="widget" data-widget_type="testimonial.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor - v3.19.0 - 28-02-2024 */
+                                    .elementor-testimonial-wrapper {
+                                        overflow: hidden;
+                                        text-align: center
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-content {
+                                        font-size: 1.3em;
+                                        margin-bottom: 20px
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-name {
+                                        line-height: 1.5;
+                                        display: block
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-job {
+                                        font-size: .85em;
+                                        display: block
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta {
+                                        width: 100%;
+                                        line-height: 1
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta-inner {
+                                        display: inline-block
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details,
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image {
+                                        display: table-cell;
+                                        vertical-align: middle
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img {
+                                        width: 60px;
+                                        height: 60px;
+                                        border-radius: 50%;
+                                        -o-object-fit: cover;
+                                        object-fit: cover;
+                                        max-width: none
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image {
+                                        padding-right: 15px
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details {
+                                        text-align: left
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image {
+                                        display: block
+                                    }
+
+                                    .elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image {
+                                        margin-bottom: 20px
+                                    }
+                                </style>
+                                <div class="elementor-testimonial-wrapper">
+                                    <div class="elementor-testimonial-content">Kieva is very patient and thorough to the
+                                        tee!!! She really cares about you achieving your desired result and so much
+                                        more! There is clearly no way we could have achieved all we did without her team
+                                        and we will use/recommend their service over and over and over again. Thank you
+                                        so much Kieva!</div>
+
+                                    <div
+                                        class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+                                        <div class="elementor-testimonial-meta-inner">
+                                            <div class="elementor-testimonial-image">
+                                                <img decoding="async" width="1416" height="2000"
+                                                    src="https://kievachrisamusan.com/wp-content/uploads/2022/09/Copy-of-GAZ_PB7.jpg"
+                                                    class="attachment-full size-full wp-image-1010"
+                                                    alt="Yagazie Eguare Gazmadu"
+                                                    srcset="https://kievachrisamusan.com/wp-content/uploads/2022/09/Copy-of-GAZ_PB7.jpg 1416w, https://kievachrisamusan.com/wp-content/uploads/2022/09/Copy-of-GAZ_PB7-212x300.jpg 212w, https://kievachrisamusan.com/wp-content/uploads/2022/09/Copy-of-GAZ_PB7-725x1024.jpg 725w, https://kievachrisamusan.com/wp-content/uploads/2022/09/Copy-of-GAZ_PB7-768x1085.jpg 768w, https://kievachrisamusan.com/wp-content/uploads/2022/09/Copy-of-GAZ_PB7-1087x1536.jpg 1087w"
+                                                    sizes="(max-width: 1416px) 100vw, 1416px" />
+                                            </div>
+
+                                            <div class="elementor-testimonial-details">
+                                                <div class="elementor-testimonial-name">YAGAZIE EGUARE</div>
+                                                <div class="elementor-testimonial-job">Creator, Profitable Photography
+                                                    Business Program</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-8d4f46d elementor-align-justify elementor-widget elementor-widget-button"
+                            data-id="8d4f46d" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm"
+                                        href="https://portal.zoltdigital.com/public/appointment-scheduler/600368c08424085756e0353e/schedule">
+                                        <span class="elementor-button-content-wrapper">
+                                            <span class="elementor-button-text">I’m Ready To Work With You</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-6fa738b elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default"
+            data-id="6fa738b" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-background-overlay"></div>
+            <div class="elementor-container elementor-column-gap-default">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e845a7"
+                    data-id="4e845a7" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-3c93a19 elementor-widget elementor-widget-heading"
+                            data-id="3c93a19" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Your Next Steps:</h2>
+                            </div>
+                        </div>
+                        <section
+                            class="elementor-section elementor-inner-section elementor-element elementor-element-6b0a77d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                            data-id="6b0a77d" data-element_type="section">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-d930108"
+                                    data-id="d930108" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-824da16 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                                            data-id="824da16" data-element_type="widget"
+                                            data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <i aria-hidden="true" class="fab fa-wpforms"></i> </span>
+                                                    </div>
+                                                    <div class="elementor-icon-box-content">
+                                                        <h3 class="elementor-icon-box-title">
+                                                            <span>
+                                                            </span>
+                                                        </h3>
+                                                        <p class="elementor-icon-box-description">
+                                                            Click the button below and fill out the application form
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-41be547"
+                                    data-id="41be547" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-015a98c elementor-view-default elementor-widget elementor-widget-icon"
+                                            data-id="015a98c" data-element_type="widget"
+                                            data-widget_type="icon.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-wrapper">
+                                                    <div class="elementor-icon">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="50.224"
+                                                            height="20.894" viewBox="0 0 50.224 20.894">
+                                                            <g id="Group_1" data-name="Group 1"
+                                                                transform="translate(-40.5 -74.053)">
+                                                                <line id="Line_1" data-name="Line 1" x2="50"
+                                                                    transform="translate(40.5 84.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                                <line id="Line_2" data-name="Line 2" x2="20" y2="10"
+                                                                    transform="translate(70.5 74.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                                <line id="Line_3" data-name="Line 3" y1="10" x2="20"
+                                                                    transform="translate(70.5 84.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                            </g>
+                                                        </svg>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-728ea36"
+                                    data-id="728ea36" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-28b6963 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                                            data-id="28b6963" data-element_type="widget"
+                                            data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <i aria-hidden="true"
+                                                                class="fas fa-file-invoice-dollar"></i> </span>
+                                                    </div>
+                                                    <div class="elementor-icon-box-content">
+                                                        <h3 class="elementor-icon-box-title">
+                                                            <span>
+                                                            </span>
+                                                        </h3>
+                                                        <p class="elementor-icon-box-description">
+                                                            Once you submit, you will receive the payment invoice of
+                                                            $299 in your email </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-05ae4e4"
+                                    data-id="05ae4e4" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-ce65e37 elementor-view-default elementor-widget elementor-widget-icon"
+                                            data-id="ce65e37" data-element_type="widget"
+                                            data-widget_type="icon.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-wrapper">
+                                                    <div class="elementor-icon">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="50.224"
+                                                            height="20.894" viewBox="0 0 50.224 20.894">
+                                                            <g id="Group_1" data-name="Group 1"
+                                                                transform="translate(-40.5 -74.053)">
+                                                                <line id="Line_1" data-name="Line 1" x2="50"
+                                                                    transform="translate(40.5 84.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                                <line id="Line_2" data-name="Line 2" x2="20" y2="10"
+                                                                    transform="translate(70.5 74.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                                <line id="Line_3" data-name="Line 3" y1="10" x2="20"
+                                                                    transform="translate(70.5 84.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                            </g>
+                                                        </svg>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-3c29f96"
+                                    data-id="3c29f96" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-0d851c8 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                                            data-id="0d851c8" data-element_type="widget"
+                                            data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <i aria-hidden="true" class="fas fa-file-invoice"></i>
+                                                        </span>
+                                                    </div>
+                                                    <div class="elementor-icon-box-content">
+                                                        <h3 class="elementor-icon-box-title">
+                                                            <span>
+                                                            </span>
+                                                        </h3>
+                                                        <p class="elementor-icon-box-description">
+                                                            Follow the payment link in your invoice to confirm your
+                                                            booking </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-be55d2d"
+                                    data-id="be55d2d" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-aaccf10 elementor-view-default elementor-widget elementor-widget-icon"
+                                            data-id="aaccf10" data-element_type="widget"
+                                            data-widget_type="icon.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-wrapper">
+                                                    <div class="elementor-icon">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="50.224"
+                                                            height="20.894" viewBox="0 0 50.224 20.894">
+                                                            <g id="Group_1" data-name="Group 1"
+                                                                transform="translate(-40.5 -74.053)">
+                                                                <line id="Line_1" data-name="Line 1" x2="50"
+                                                                    transform="translate(40.5 84.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                                <line id="Line_2" data-name="Line 2" x2="20" y2="10"
+                                                                    transform="translate(70.5 74.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                                <line id="Line_3" data-name="Line 3" y1="10" x2="20"
+                                                                    transform="translate(70.5 84.5)" fill="none"
+                                                                    stroke="#f3e2e4" stroke-width="1"></line>
+                                                            </g>
+                                                        </svg>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-66e12c1"
+                                    data-id="66e12c1" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-0d99fa3 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box"
+                                            data-id="0d99fa3" data-element_type="widget"
+                                            data-widget_type="icon-box.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-icon-box-wrapper">
+                                                    <div class="elementor-icon-box-icon">
+                                                        <span class="elementor-icon elementor-animation-">
+                                                            <i aria-hidden="true" class="far fa-calendar-check"></i>
+                                                        </span>
+                                                    </div>
+                                                    <div class="elementor-icon-box-content">
+                                                        <h3 class="elementor-icon-box-title">
+                                                            <span>
+                                                            </span>
+                                                        </h3>
+                                                        <p class="elementor-icon-box-description">
+                                                            Once your payment is confirmed, you will receive your
+                                                            session booking details in your inbox </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <div class="elementor-element elementor-element-5a538d2 elementor-widget__width-auto elementor-widget elementor-widget-qi_addons_for_elementor_info_button"
+                            data-id="5a538d2" data-element_type="widget"
+                            data-widget_type="qi_addons_for_elementor_info_button.default">
+                            <div class="elementor-widget-container">
+                                <a class="qodef-shortcode qodef-m  qodef-qi-info-button qodef-html--link qodef-layout--filled qodef-type--icon-boxed qodef-size--large qodef-icon--right qodef-hover--icon-move-horizontal-short"
+                                    href="https://portal.zoltdigital.com/public/appointment-scheduler/600368c08424085756e0353e/schedule"
+                                    target="_self">
+                                    <div class="qodef-m-text-holder">
+                                        <span class="qodef-m-text">BOOK YOUR SLOT NOW</span>
+                                        <span class="qodef-m-subtext">For $299 ONLY </span>
+                                    </div>
+                                    <span class="qodef-m-icon ">
+                                        <span class="qodef-m-icon-inner">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="50.224" height="20.894"
+                                                viewBox="0 0 50.224 20.894">
+                                                <g id="Group_1" data-name="Group 1"
+                                                    transform="translate(-40.5 -74.053)">
+                                                    <line id="Line_1" data-name="Line 1" x2="50"
+                                                        transform="translate(40.5 84.5)" fill="none" stroke="#707070"
+                                                        stroke-width="1"></line>
+                                                    <line id="Line_2" data-name="Line 2" x2="20" y2="10"
+                                                        transform="translate(70.5 74.5)" fill="none" stroke="#707070"
+                                                        stroke-width="1"></line>
+                                                    <line id="Line_3" data-name="Line 3" y1="10" x2="20"
+                                                        transform="translate(70.5 84.5)" fill="none" stroke="#707070"
+                                                        stroke-width="1"></line>
+                                                </g>
+                                            </svg> </span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div data-elementor-type="footer" data-elementor-id="137" class="elementor elementor-137 elementor-location-footer"
+        data-elementor-post-type="elementor_library">
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-e07fe67 elementor-section-height-min-height elementor-section-full_width elementor-section-items-stretch elementor-section-height-default"
+            data-id="e07fe67" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-container elementor-column-gap-wide">
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-02fcf27"
+                    data-id="02fcf27" data-element_type="column"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-bed5005 elementor-widget elementor-widget-heading"
+                            data-id="bed5005" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Free gift for you!</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-9d76a79 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
+                            data-id="9d76a79" data-element_type="widget"
+                            data-settings="{&quot;marker&quot;:&quot;strikethrough&quot;,&quot;highlighted_text&quot;:&quot;erratic sales &quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;highlight_animation_duration&quot;:1200}"
+                            data-widget_type="animated-headline.default">
+                            <div class="elementor-widget-container">
+                                <h3 class="elementor-headline">
+                                    <span class="elementor-headline-plain-text elementor-headline-text-wrapper">Grow
+                                        from </span>
+                                    <span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+                                        <span
+                                            class="elementor-headline-dynamic-text elementor-headline-text-active">erratic
+                                            sales </span>
+                                    </span>
+                                    <span class="elementor-headline-plain-text elementor-headline-text-wrapper">to
+                                        Consistent Cashflow</span>
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-9b6166c elementor-widget elementor-widget-text-editor"
+                            data-id="9b6166c" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>Will you join me in this value-packed workshop where I help you figure out what’s
+                                    missing from your marketing strategy and start taking immediate steps to correct it?
+                                </p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-1df0a38 elementor-align-justify elementor-mobile-align-center elementor-widget elementor-widget-button"
+                            data-id="1df0a38" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm"
+                                        href="https://kievachrisamusan.com/htfw-registration/">
+                                        <span class="elementor-button-content-wrapper">
+                                            <span class="elementor-button-text">ABSOLUTELY YES, I WANT IN →</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4fab153 elementor-hidden-mobile"
+                    data-id="4fab153" data-element_type="column"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="elementor-element elementor-element-956ed25 elementor-hidden-mobile e-transform elementor-widget elementor-widget-spacer"
+                            data-id="956ed25" data-element_type="widget"
+                            data-settings="{&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
+                            data-widget_type="spacer.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-spacer">
+                                    <div class="elementor-spacer-inner"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+       
+    </div>
+
+
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/convertkit/resources/frontend/js/broadcasts.js?ver=2.1.2"
+        id="convertkit-broadcasts-js"></script>
+  
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/convertkit/resources/frontend/js/convertkit.js?ver=2.1.2"
+        id="convertkit-js-js"></script>
+   
+    <script src="https://kievachrisamusan.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js">
+    </script>
+
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=6.4.3"
+        id="qi-addons-for-elementor-script-js"></script>
+    <script
+        src="https://kievachrisamusan.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0"
+        id="hello-theme-frontend-js"></script>
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"
+        id="smartmenus-js"></script>
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/qi-addons-for-elementor/inc/shortcodes/typeout-text/assets/js/plugins/typed.js?ver=1"
+        id="typed-js"></script>
+    <script src="https://kievachrisamusan.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4"
+        id="elementor-webpack-runtime-js"></script>
+    <script src="https://kievachrisamusan.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4"
+        id="elementor-frontend-modules-js"></script>
+    <script
+        src="https://kievachrisamusan.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"
+        id="elementor-waypoints-js"></script>
+
+    <script src="https://kievachrisamusan.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4"
+        id="elementor-frontend-js"></script>
+    <script src="https://kievachrisamusan.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"
+        id="wp-polyfill-inert-js"></script>
+    <script src="https://kievachrisamusan.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0"
+        id="regenerator-runtime-js"></script>
+    <script src="https://kievachrisamusan.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"
+        id="wp-polyfill-js"></script>
+    <script src="https://kievachrisamusan.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1"
+        id="wp-hooks-js"></script>
+    <script src="https://kievachrisamusan.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js">
+    </script>
+
+    <!-- initialize jQuery Library -->
+    <script src="{{ asset('frontend/plugins/jquery/jquery.js') }}"></script>
+    <!-- Bootstrap jQuery -->
+    <script src="{{ asset('frontend/plugins/bootstrap/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('frontend/plugins/bootstrap/js/popper.min.js') }}"></script>
+    <!-- Owl caeousel -->
+    <script src="{{ asset('frontend/plugins/owl-carousel/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('frontend/plugins/slick-carousel/slick.min.js') }}"></script>
+    <script src="{{ asset('frontend/plugins/magnific-popup/magnific-popup.js') }}"></script>
+    <!-- Instagram Feed Js -->
+    <script src="{{ asset('frontend/plugins/instafeed-js/instafeed.min.js') }}"></script>
+    <!-- Google Map -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
+    <script src="{{ asset('frontend/plugins/google-map/gmap.js') }}"></script>
+    <!-- main js -->
+    <script src="{{ asset('frontend/js/custom.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <!-- Make sure jQuery is included before fancybox -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+
+
+</body>
+
+</html>
